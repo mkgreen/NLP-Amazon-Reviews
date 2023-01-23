@@ -1,6 +1,5 @@
 # [NLP-Amazon-Reviews](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/NLP_Project_Amazon_Reviews.ipynb)
 
-***
 ### [Amazon Fine Food Analysis using NLP](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/NLP_Project_Amazon_Reviews.ipynb)
 
 [![amazon](https://user-images.githubusercontent.com/105948938/214134337-9b62c971-cf74-4160-a58b-b2870c895985.jpeg)](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/NLP_Project_Amazon_Reviews.ipynb)
